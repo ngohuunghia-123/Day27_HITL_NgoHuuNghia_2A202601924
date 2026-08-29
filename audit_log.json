@@ -14,5 +14,21 @@
     "confidence": 0.9,
     "reviewer_id": "operator_01",
     "decision": "approve"
+  },
+  {
+    "timestamp": "2026-08-29T05:05:57.847094+00:00",
+    "agent_id": "churn-risk-agent",
+    "action": "send_email",
+    "confidence": 0.9,
+    "reviewer_id": "system",
+    "decision": "auto_execute"
+  },
+  {
+    "timestamp": "2026-08-29T05:06:38.376755+00:00",
+    "agent_id": "churn-risk-agent",
+    "action": "increase_credit_limit",
+    "confidence": 0.85,
+    "reviewer_id": "operator_01",
+    "decision": "reject"
   }
 ]
